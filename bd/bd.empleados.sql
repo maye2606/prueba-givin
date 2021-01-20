@@ -1,0 +1,1 @@
+SELECT * FROM empleados.datos_emple;
